@@ -27,7 +27,7 @@ Others
 - Auto-Lock Agent
 If you would like us to add something please get in contact. Any feedback is appreciated.
 📎 〢 Compability
-VALORANT-EXTERNAL is compatible with:
+VALOder is compatible with:
 
 Windows 10 21h2 recommended, any other should do the job as well
 🌟 〢 Changelogs
@@ -45,3 +45,4 @@ v3 | 04/11/2022
 
 v1.0 | 30/10/2022
 + Stable Build Release
+
